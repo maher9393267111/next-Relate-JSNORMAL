@@ -8,39 +8,63 @@ export default function Document() {
     <Html>
       <Head>
       
-    <link rel="stylesheet" href="/assets/css/vendor/font-awesome.min.css"/>
-    <link rel="stylesheet" href="/assets/css/vendor/plaza-icon.css"/>
-    <link rel="stylesheet" href="/assets/css/vendor/jquery-ui.min.css"/>
 
-    <link rel="stylesheet" href="/assets/css/plugins/slick.css"/>
-    <link rel="stylesheet" href="/assets/css/plugins/animate.min.css"/>
-    <link rel="stylesheet" href="/assets/css/plugins/aos.min.css"/>
-    <link rel="stylesheet" href="/assets/css/plugins/nice-select.css"/>
-    <link rel="stylesheet" href="/assets/css/plugins/venobox.min.css"/>
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,500i,600,700,800,900" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,600,700" rel="stylesheet"/>
+
+  
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    
+    <link href="assets/css/headroom.css" rel="stylesheet" />
+  
+    <link href="assets/css/animate.css" rel="stylesheet" />
+ 
+    <link href="assets/css/ionicons.css" rel="stylesheet" />
+  
+    <link href="assets/css/material-design-iconic-font.css" rel="stylesheet" />
+   
+    <link href="assets/css/elegant-icons.css" rel="stylesheet" />
+
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+
+    <link href="assets/css/swiper.min.css" rel="stylesheet" />
+   
+    <link href="assets/css/fancybox.min.css" rel="stylesheet" />
+   
+    <link href="assets/css/slicknav.css" rel="stylesheet" />
+
+   
+    <link href="assets/css/style.css" rel="stylesheet" />
 
   
     
    
    
-    <Script src={"/assets/js/vendor/jquery-ui.min.js"}/>
+    <script src="assets/js/modernizr.js"></script>
 
-  
-    <Script src={"/assets/js/plugins/slick.min.js"}/>
-    <Script src={"/assets/js/plugins/material-scrolltop.js"}/>
-    <Script src={"/assets/js/plugins/jquery.nice-select.min.js"}/>
-    <Script src={"/assets/js/plugins/jquery.zoom.min.js"}/>
-    <Script src={"/assets/js/plugins/venobox.min.js"}/>
-    <Script src={"/assets/js/plugins/aos.min.js"}/>
-    <Script src={"/assets/js/plugins/ajax-mail.js"}/>
+<script src="assets/js/jquery-main.js"></script>
+
+<script src="assets/js/jquery-migrate.js"></script>
+
+<script src="assets/js/popper.min.js"></script>
+
+<script src="assets/js/bootstrap.min.js"></script>
+
+<script src="assets/js/headroom.min.js"></script>
+
+<script src="assets/js/swiper.min.js"></script>
+
+<script src="assets/js/fancybox.min.js"></script>
+
+<script src="assets/js/slicknav.js"></script>
+
+<script src="assets/js/countdown.js"></script>
 
 
-    <Script src={'/assets/js/vendor/modernizr-3.11.2.min.js'}/>
-    <Script src={"/assets/js/vendor/jquery-3.6.0.min.js"}/>
-    <Script src={"/assets/js/vendor/jquery-migrate-3.3.2.min.js"}/>
-    <Script src={"/assets/js/vendor/bootstrap.bundle.min.js"}/>
-   
+<script src="assets/js/custom.js"></script>
 
 
 

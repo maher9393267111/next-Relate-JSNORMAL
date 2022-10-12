@@ -28,7 +28,7 @@
 	25. Counter
 */
 
-( function( $ ) {
+$(document).ready(function(){
 	"use strict"; // Start of use strict
 
 	jQuery.fn.exists = function() {
@@ -1041,4 +1041,4 @@
 
 	} ); /* end of on load */
 
-} )( jQuery ); // End of use strict
+} ) // End of use strict

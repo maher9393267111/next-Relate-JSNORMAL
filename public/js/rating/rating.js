@@ -1,7 +1,7 @@
-( function( $ ) {
+$(document).ready(function(){
   'use strict'; // Start of use strict
 
-   $(function() {
+//    $(function() {
     function ratingEnable() {
         $('#rating-1to10').barrating('show', {
             theme: 'bars-1to10'
@@ -118,6 +118,6 @@
     });
 
     ratingEnable();
-});
+// });
 
-} )( jQuery ); // End of use strict
+} )// End of use strict

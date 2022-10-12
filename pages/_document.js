@@ -10,33 +10,39 @@ export default function Document() {
 <Head>
 
 
+<link rel="stylesheet" href="./css/bootstrap/bootstrap.min.css"></link>
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
-  
-    <link rel="stylesheet" href="assets/css/icons.min.css"/>
-  
-    <link rel="stylesheet" href="assets/css/plugins.css"/>
+<link rel="stylesheet" href="./css/font-awesome/all.min.css"/>
+  <link rel="stylesheet" href="./css/feather/iconfont.css"/>
+  <link rel="stylesheet" href="./css/pe-icon-stroke/Pe-icon-7-stroke.css"/>
+  <link rel="stylesheet" href="./css/simple-line-icons/simple-line-icons.css"/>
+  <link rel="stylesheet" href="./css/themify-icons/themify-icons.css"/>
+  <link rel="stylesheet" href="./css/pe-icon-stroke/Pe-icon-7-stroke.css"/>
+  <link rel="stylesheet" href="./css/swiper/swiper.min.css"/>
+  <link rel="stylesheet" href="./css/magnific-popup/magnific-popup.css"/>
+  <link rel="stylesheet" href="./css/mediaelementjs/mediaelementplayer.min.css"/>
+
  
-    <link rel="stylesheet" href="assets/css/style.css"/>
-  
-    <script src="assets/js/vendor/modernizr-3.11.7.min.js"></script>
+  <link rel="stylesheet" href="./css/style.css"/>
 
 
 
 
+  <script src="./js/jquery-3.6.0.min.js"></script>
+  <script src="./js/popper.min.js"></script>
+  <script src="./js/bootstrap/bootstrap.min.js"></script>
+
+  <script src="./js/typer/typer.js"></script>
+  <script src="./js/appear/jquery.appear.js"></script>
+  <script src="./js/mCustomScrollbar/jquery.mCustomScrollbar.min.js"></script>
+  <script src="./js/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <script src="./js/isotope/isotope.pkgd.min.js"></script>
 
 
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+  <script src="./js/functions.js"></script>
 
-<script src="assets/js/popper.min.js"></script>
 
-<script src="assets/js/bootstrap.min.js"></script>
 
-<script src="assets/js/plugins.js"></script>
-
-<script src="assets/js/ajax-mail.js"></script>
-
-<script src="assets/js/main.js"></script>
 
 
 

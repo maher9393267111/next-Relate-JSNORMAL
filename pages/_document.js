@@ -41,17 +41,17 @@ export default function Document() {
 
 
 
-        <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/wow.min.js"></script>
-        <script src="js/jquery.backTop.min.js "></script>
-        <script src="js/waypoints.min.js"></script>
-        <script src="js/waypoints-sticky.min.js"></script>
-        <script src="js/owl.carousel.min.js"></script>
-        <script src="js/jquery.stellar.min.js"></script>
-        <script src="js/jquery.counterup.min.js"></script>
-        <script src="js/venobox.min.js"></script>
-        <script src="js/custom-scripts.js"></script>
+        <Script src="js/jquery.min.js"></Script>
+        <Script src="js/bootstrap.min.js"></Script>
+        <Script src="js/wow.min.js"></Script>
+        <Script src="js/jquery.backTop.min.js "></Script>
+        <Script src="js/waypoints.min.js"></Script>
+        <Script src="js/waypoints-sticky.min.js"></Script>
+        <Script src="js/owl.carousel.min.js"></Script>
+        <Script src="js/jquery.stellar.min.js"></Script>
+        <Script src="js/jquery.counterup.min.js"></Script>
+        <Script src="js/venobox.min.js"></Script>
+        <Script src="js/custom-scripts.js"></Script>
       
 
 

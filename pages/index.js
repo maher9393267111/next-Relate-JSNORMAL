@@ -45,13 +45,7 @@ const openBar = ()=>{
   return (
     <>
 
-<Head>
 
-
-<Script src="./assets/jquery.js"></Script>
-
-
-</Head>
 
 
       {domLoaded && (

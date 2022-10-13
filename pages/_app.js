@@ -4,6 +4,7 @@ import "react-toastify/dist/ReactToastify.css";
 import Head from "next/head";
 import Script from 'next/script';
 import Link from 'next/link';
+import 'bootstrap/dist/css/bootstrap.css'
 import {useEffect,useState} from 'react'
 function MyApp({ Component, pageProps }) {
 

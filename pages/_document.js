@@ -1,7 +1,6 @@
-/* eslint-disable @next/next/no-sync-scripts */
-// pages/_document.js
-import Script from 'next/script';
+
 import { Html, Head, Main, NextScript } from 'next/document';
+import Script from 'next/script';
 
 export default function Document() {
   return (
@@ -10,46 +9,26 @@ export default function Document() {
 <Head>
 
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&family=Jost:wght@300;400;500;600;700;800;900&display=swap"/>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <link href="css/v4-shims.min.css" rel="stylesheet" type="text/css" />
+        <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" />
+        <link href="css/owl.theme.css" rel="stylesheet" type="text/css" />
+        <link href="css/animate.css" rel="stylesheet" type="text/css" />
+        <link href="css/venobox.css" rel="stylesheet" type="text/css" />
+        <link href="css/styles.css"  rel="stylesheet" type="text/css"/>
+    
 
 
-<link rel="stylesheet" href="./css/bootstrap/bootstrap.min.css"/>
-
-
-<link rel="./stylesheet" href="css/font-awesome/all.min.css"/>
-<link rel="./stylesheet" href="css/feather/iconfont.css"/>
-<link rel="./stylesheet" href="css/pe-icon-stroke/Pe-icon-7-stroke.css"/>
-<link rel="./stylesheet" href="css/simple-line-icons/simple-line-icons.css"/>
-<link rel="./stylesheet" href="css/themify-icons/themify-icons.css"/>
-<link rel="./stylesheet" href="css/pe-icon-stroke/Pe-icon-7-stroke.css"/>
-<link rel="./stylesheet" href="css/swiper/swiper.min.css"/>
-<link rel="./stylesheet" href="css/animate/animate.min.css"/>
-<link rel="./stylesheet" href="css/magnific-popup/magnific-popup.css"/>
-<link rel="./stylesheet" href="css/mCustomScrollbar/jquery.mCustomScrollbar.min.css"/>
-
-
-<link rel="stylesheet" href="./css/style.css"/>
+    
+  
 
 
 
-
-	<script src="./js/jquery-3.6.0.min.js"></script>
-	<script src="./js/popper.min.js"></script>
-	<script src="./js/bootstrap/bootstrap.min.js"></script>
-
-	<script src="./js/appear/jquery.appear.js"></script>
-	<script src="./js/swiper/swiper.min.js"></script>
-	<script src="./js/swiper/SwiperAnimation.min.js"></script>
-	<script src="./js/magnific-popup/jquery.magnific-popup.min.js"></script>
-	<script src="./js/isotope/isotope.pkgd.min.js"></script>
-	<script src="./js/typer/typer.js"></script>
-  <script src="./js/mCustomScrollbar/jquery.mCustomScrollbar.min.js"></script>
-  <script src="./js/jarallax/jarallax.min.js"></script>
-
-  <script src="./js/functions.js"></script>
-
-
-
+      
+      
+        
+     
 
 
 
@@ -59,6 +38,28 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+
+
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/jquery.backTop.min.js "></script>
+        <script src="js/waypoints.min.js"></script>
+        <script src="js/waypoints-sticky.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/jquery.stellar.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/venobox.min.js"></script>
+        <script src="js/custom-scripts.js"></script>
+      
+
+
+
+
+
+
+
       </body>
     </Html>
   );
